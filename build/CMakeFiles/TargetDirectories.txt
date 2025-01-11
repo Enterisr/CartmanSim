@@ -1,0 +1,3 @@
+/home/drunktolstoy/c/projects/bunos3/build/CMakeFiles/Bonus.dir
+/home/drunktolstoy/c/projects/bunos3/build/CMakeFiles/edit_cache.dir
+/home/drunktolstoy/c/projects/bunos3/build/CMakeFiles/rebuild_cache.dir
